@@ -1,0 +1,6 @@
+header {
+    width: 100%;
+    height: 150px;
+    background: linear-gradient(to top left, #96f2ff 0%, #575757 100%);
+    background-size: cover;
+}
